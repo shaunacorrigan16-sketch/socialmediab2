@@ -10,4 +10,4 @@
   * [4. Fake News - How to detect it](https://shaunacorrigan16-sketch.github.io/socialmediab2/03-fakenews/fakenews2.pdf)
   * [5. How to write an opinion piece](https://shaunacorrigan16-sketch.github.io/socialmediab2/04-onlinerolemodels/socialmediaopinionpieceEPUB.epub)
   * [6. Opinion piece example structure](04-onlinerolemodels/sample.md)
-* 
+  * 7
