@@ -1,5 +1,6 @@
 # Social Media : B2
 
+
 #### In this B2 level English course, we discuss the topic of social media. We will discuss:
 - How to use social media responsibly and protect your privacy
 - What fake news is and how to detect it
