@@ -1,5 +1,8 @@
 * [Inicio](README.md)
 
-* **Módulo 1: Introducción**
-  * [Lección 1: La buena educación](02-socialmediaintro/socialmediavocab.md)
-  * [Lección 2: La buena educación](02-socialmediaintro/socialmediaprivacywithactivities.html)
+* **Social Media : Introduction**
+  * [Vocabulary](02-socialmediaintro/socialmediavocab.md)
+  * [Privacy on Social Media](02-socialmediaintro/socialmediaprivacywithactivities.html)
+  * [What is Fake News?]()
+  * [Fake News Activities](03-fakenews\fakenewsactivities.md)
+  * [How to write an Opinion Piece]()
