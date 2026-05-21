@@ -1,41 +1,37 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
   <meta charset="UTF-8">
   <title>Social Media B2</title>
-
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="B2 Level English course about Social Media">
+  <meta name="description" content="Descripción de tu curso.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css">
+  
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css">
 </head>
-
 <body>
-  <div id="app"></div>
-
+  <div id="app">Cargando el curso...</div>
   <script>
     window.$docsify = {
-      name: 'Social Media B2',
-      repo: 'https://github.com/shaunacorrigan16-sketch/socialmediab2',
-
-      loadSidebar: true,
-      subMaxLevel: 2,
-      loadNavbar: false,
-      auto2top: true,
-
+      name: 'Mi curso de checo',
+      repo: 'https://github.com/chenlo/mi-curso-github/', // Enlace a tu repositorio en la esquina superior
+      loadSidebar: true,     // Activa el menú lateral autogestionado
+      subMaxLevel: 2,        // Muestra los subtítulos (h2, h3) de cada lección en el menú
+      loadNavbar: false,     // Cambia a true si quieres menú superior
+      auto2top: true,        // Hace scroll hacia arriba automáticamente al cambiar de tema
+      
+      // Configuración del buscador integrado
       search: {
         maxAge: 86400000,
         paths: 'auto',
-        placeholder: 'Search in the course...',
-        noData: 'No results found!',
+        placeholder: 'Buscar en el curso...',
+        noData: '¡No se encontraron resultados!',
         depth: 6
       }
-    };
+    }
   </script>
-
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/clickable-copy-code.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/clickable-copy-code.min.js"></script>
 </body>
 </html>
