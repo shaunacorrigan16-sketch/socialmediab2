@@ -1,7 +1,8 @@
 * [Home](README.md)
 
 * **Social Media : B2**
-  Course contents
+  
+  Contents of the course:
 
   * [1. Vocabulary](02-socialmediaintro/socialmediavocab.md)
   * [2. Privacy on Social Media](02-socialmediaintro/socialmediaprivacywithactivities.html)
@@ -14,3 +15,4 @@
   * [8. Social Media and self-image](05-selfimage/selfimage.md)
   * [9. Final challenge]()
   * [10. Evaluation]()
+
