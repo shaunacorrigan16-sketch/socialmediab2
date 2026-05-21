@@ -1,4 +1,4 @@
-* [Inicio](README.md)
+* [Home](README.md)
 
 * **Social Media : Introduction**
   * [Vocabulary](02-socialmediaintro/socialmediavocab.md)
