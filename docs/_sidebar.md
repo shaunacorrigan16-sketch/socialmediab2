@@ -1,6 +1,7 @@
 
 - [Home](README.md)
 
+
 - Lesson 1
   - [Vocabulary](socialmediavocab.md)
   - [Reading and Activities](socialmediaprivacywithactivities.html)
