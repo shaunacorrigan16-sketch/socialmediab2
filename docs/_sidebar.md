@@ -11,3 +11,5 @@
   * [5. How to write an opinion piece](https://shaunacorrigan16-sketch.github.io/socialmediab2/04-onlinerolemodels/socialmediaopinionpieceepub.epub) 
   * [6. Opinion piece example structure](04-onlinerolemodels/sample.md)
   * 7
+  * 8
+  * 
