@@ -1,6 +1,7 @@
 * [Home](README.md)
 
-* **Social Media : Introduction**
+* **Social Media : B2**
+  
   * [Vocabulary](02-socialmediaintro/socialmediavocab.md)
   * [Privacy on Social Media](02-socialmediaintro/socialmediaprivacywithactivities.html)
   * [What is Fake News?]()
