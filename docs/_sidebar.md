@@ -13,6 +13,6 @@
   * [6. How to write an opinion piece](https://shaunacorrigan16-sketch.github.io/socialmediab2/04-onlinerolemodels/writinganopinion.epub) 
   * [7. Interactive story "Cancelled!"](04-onlinerolemodels/cancelled.md)
   * [8. Social Media and self-image](05-selfimage/selfimage.md)
-  * [9. Final challenge](05-selfimage/GlowUp-1.0-web/index.html)
+  * [9. Final challenge](05-selfimage/renpy/renpyweb.zip)
   * [10. Evaluation](06-evaluation/evaluation.md)
 
