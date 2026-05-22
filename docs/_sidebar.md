@@ -14,6 +14,5 @@
   * [7. Interactive story "Cancelled!"](04-onlinerolemodels/cancelled.md)
   * [8. Social Media and self-image](05-selfimage/selfimage.md)
   * [9. Final challenge](renpy)
-  * [10. Evaluation](evalpresentation.html)
-
+  * [10. Evaluation](06-evaluation/evalpresentation.html)
 
