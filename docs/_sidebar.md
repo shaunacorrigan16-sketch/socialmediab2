@@ -11,7 +11,7 @@
   * [4. Fake News - How to detect it](https://shaunacorrigan16-sketch.github.io/socialmediab2/03-fakenews/fakenews2.pdf)
   * [5. Opinion piece introduction](04-onlinerolemodels/opinionpieceintro.md)
   * [6. How to write an opinion piece](https://shaunacorrigan16-sketch.github.io/socialmediab2/04-onlinerolemodels/writinganopinion.epub) 
-  * [7. Interactive story "Cancelled!"](04-onlinerolemodels/twine/loggedin.html)
+  * [7. Interactive story "Cancelled!"](04-onlinerolemodels/loggedin.html)
   * [8. Social Media and self-image](05-selfimage/selfimage.md)
   * [9. Final challenge]()
   * [10. Evaluation]()
