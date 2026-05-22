@@ -1,5 +1,4 @@
 # Writing an Opinion Piece
-![Hand Writing](img/writing.png)
 
 ## How to write an opinion piece 📝
 An opinion piece can be divided into 3 parts.
