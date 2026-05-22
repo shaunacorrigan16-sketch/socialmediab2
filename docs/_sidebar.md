@@ -3,7 +3,7 @@
 * **Social Media : B2**
   
   Contents of the course:
-
+  * [0. Introduction](01-introduction/intro.md)
   * [1. Vocabulary](02-socialmediaintro/socialmediavocab.md)
   * [2. Privacy on Social Media](02-socialmediaintro/socialmediaprivacywithactivities.html)
 
@@ -15,5 +15,4 @@
   * [8. Social Media and self-image](05-selfimage/selfimage.md)
   * [9. Final challenge](https://shaunacorrigan16-sketch.github.io/socialmediab2/05-selfimage/renpy/index.html)
   * [10. Evaluation](06-evaluation/evaluation.md)
-
 
