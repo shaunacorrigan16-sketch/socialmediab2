@@ -13,5 +13,6 @@
 - What **modal verbs** are, and how to use them to give advice
 - What **phrasal verbs** are, and how to use some examples.
 - How to write an **opinion piece** text.
+- How to analyse **positives and negatives** related to a topic.
   
 **Let's get started!**
