@@ -82,3 +82,7 @@ Using context to help you from activity 2, what do you think the below phrasal v
 | **pass off** | |
 | **bring down** | |
 | **cash in** | |
+
+## 5. How to detect Fake News
+**How can we know what news is true and what is fake? Click on the below link to learn how to detect fake news!**
+[Fake News - How to detect it](https://shaunacorrigan16-sketch.github.io/socialmediab2/03-fakenews/fakenews2.pdf)
