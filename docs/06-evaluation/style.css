@@ -1,0 +1,9 @@
+.reveal {
+  transform: scale(0.75);
+  transform-origin: top left;
+}
+
+.reveal .slides {
+  width: 133.33% !important;
+  height: 133.33% !important;
+}

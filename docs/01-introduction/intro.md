@@ -2,9 +2,14 @@
 
 ![Social media apps on phone](img/apps.png) 
 
-| Title and level | Modality | Estimated Time | Interaction | Previous Knowledge Required |
+| Title and level | Modality | Estimated Time | Target Learners | Previous Knowledge Required |
 |--------|-----------|----------------|-------------|-----------------------------|
-| Social Media : B2 | Virtual | 4 hours | Individual | B1 level English competency |
+| Social Media : B2 | Mixed | 4 hours | Teenagers | B1 level English competency |
+
+
+## Welcome to Social Media: B2!
+**Click on the links below to access the course content, or navigate using the lateral panel.**
+
 
   Contents of the course:
   * [0. Introduction](01-introduction/intro.md)

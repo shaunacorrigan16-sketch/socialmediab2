@@ -1,6 +1,6 @@
 * [Home](README.md)
 
-* **Social Media : B2**
+**Social Media : B2**
   
   Contents of the course:
   * [0. Introduction](01-introduction/intro.md)
@@ -14,5 +14,5 @@
   * [7. Interactive story "Cancelled!"](04-onlinerolemodels/cancelled.md)
   * [8. Social Media and self-image](05-selfimage/selfimage.md)
   * [9. Final challenge](https://shaunacorrigan16-sketch.github.io/socialmediab2/05-selfimage/renpy/index.html)
-  * [10. Evaluation](06-evaluation/evaluation.md)
+  * [10. Evaluation](06-evaluation/evaluation.html)
 
