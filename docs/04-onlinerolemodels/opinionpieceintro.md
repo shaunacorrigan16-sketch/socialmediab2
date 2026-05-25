@@ -34,3 +34,8 @@ In conclusion, although social media can be entertaining, you should use it resp
 
 1. Is the author's opinion of social media generally positive or negative? Why?
 2. Do you agree with the author's opinion?
+
+## 4. How to Write an Opinion Piece
+**Click on the following link to see how to write an opinion piece.**
+
+ [How to write an opinion piece](https://shaunacorrigan16-sketch.github.io/socialmediab2/04-onlinerolemodels/writinganopinion.epub)

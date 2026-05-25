@@ -61,5 +61,11 @@ If we are unable to use it in a healthy way, it is better to just log off and tu
 4. Do you agree that people should sometimes “log off” from social media? Why?
 5. Should teenagers be taught how to identify misinformation online? Why?
 
+## Final Challenge
+Using all of the knowledge you have learned about social media, assume the role of a teenager navegating the online world in this animated interactive story.
+**Click on the link below to play the final challenge.**
+[Final challenge](https://shaunacorrigan16-sketch.github.io/socialmediab2/05-selfimage/renpy/index.html)
+
+
 ## Bibliography
 - Alex. (2025, February 11). B2 reading: The pros and cons of social media (Upper-intermediate English). English Alex. https://www.englishalex.com/post/b2-reading-the-pros-and-cons-of-social-media-upper-intermediate-english
