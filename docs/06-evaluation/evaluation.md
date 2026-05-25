@@ -246,7 +246,7 @@
 
 ---
 
-## Mejores áreas de mejora
+## Posibilidades de mejora
 
 - Adaptabilidad: El curso no se adapta al nivel ni a las necesidades educativas del alumno. Para mejorar esta situación, se podrían ofrecer diferentes itinerarios para alumnos con distintos niveles de capacidad.
 - Accesibilidad: Se debe proporcionar un texto alternativo consistente, así como equivalentes de texto para el contenido de audio.

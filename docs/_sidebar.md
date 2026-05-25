@@ -15,4 +15,3 @@
   * [8. Social Media and self-image](05-selfimage/selfimage.md)
   * [9. Final challenge](https://shaunacorrigan16-sketch.github.io/socialmediab2/05-selfimage/renpy/index.html)
   * [10. Evaluation](06-evaluation/evaluation.html)
-
