@@ -1,4 +1,4 @@
-# An Opinion Piece
+# Opinion Pieces
 ![A post-it note with a drawing of lightbulb pinned on a cork board](img/note.png)
 
 ## Lesson Overview 📚
@@ -39,3 +39,4 @@ In conclusion, although social media can be entertaining, you should use it resp
 **Click on the following link to see how to write an opinion piece.**
 
  [How to write an opinion piece](https://shaunacorrigan16-sketch.github.io/socialmediab2/04-onlinerolemodels/writinganopinion.epub)
+
