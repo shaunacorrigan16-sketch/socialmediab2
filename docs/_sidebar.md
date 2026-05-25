@@ -14,4 +14,4 @@
   * [7. Interactive story "Cancelled!"](04-onlinerolemodels/cancelled.md)
   * [8. Social Media and self-image](05-selfimage/selfimage.md)
   * [9. Final challenge](https://shaunacorrigan16-sketch.github.io/socialmediab2/05-selfimage/renpy/index.html)
-  * [10. Evaluation](06-evaluation/evaluation.html)
+  * [10. Evaluation](https://shaunacorrigan16-sketch.github.io/socialmediab2/06-evaluation/evaluation.html)
