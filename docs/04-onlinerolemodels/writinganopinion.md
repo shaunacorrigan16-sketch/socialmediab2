@@ -1,4 +1,5 @@
 ## Writing an Opinion Piece
+![Portada](img/portada.png)
 
 How to write an opinion piece 📝
 An opinion piece can be divided into 3 parts.
