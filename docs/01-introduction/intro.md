@@ -12,7 +12,6 @@
 
 
   Contents of the course:
-  * [0. Introduction](01-introduction/intro.md)
   * [1. Vocabulary](02-socialmediaintro/socialmediavocab.md)
   * [2. Privacy on Social Media](02-socialmediaintro/socialmediaprivacywithactivities.html)
   * [3. Fake News](03-fakenews/fakenews1.md)
